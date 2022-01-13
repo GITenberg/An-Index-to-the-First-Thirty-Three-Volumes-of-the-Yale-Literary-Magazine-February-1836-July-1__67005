@@ -1,0 +1,29 @@
+_repo: An-Index-to-the-First-Thirty-Three-Volumes-of-the-Yale-Literary-Magazine-February-1836-July-1__67005
+_version: 0.0.1
+alternative_title: "An Index to the 1st 33 Volumes of the Yale Literary Magazine\r\
+  \nFebruary, 1836-July 1868"
+contributor:
+  compiler:
+    agent_name: Bagg, Lyman Hotchkiss
+    aliases:
+    - Bagg, L. H. (Lyman Hotchkiss)
+    - Kron, Karl
+    birthdate: 1846
+    deathdate: 1911
+    gutenberg_agent_id: '54073'
+    url: http://www.gutenberg.org/2009/agents/54073
+description: ''
+gutenberg_issued: '2021-12-24'
+identifiers:
+  gutenberg: '67005'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'AP'
+- !lcsh 'Yale literary magazine -- Indexes'
+- GITenberg
+title: "An Index to the First Thirty-Three Volumes of the Yale Literary Magazine\r\
+  \nFebruary, 1836-July 1868"
+url: http://www.gutenberg.org/ebooks/67005
