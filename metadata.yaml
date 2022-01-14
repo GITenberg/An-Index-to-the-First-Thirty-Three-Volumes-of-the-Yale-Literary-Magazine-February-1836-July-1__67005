@@ -12,7 +12,12 @@ contributor:
     deathdate: 1911
     gutenberg_agent_id: '54073'
     url: http://www.gutenberg.org/2009/agents/54073
+covers:
+- cover_type: archival
+  image_path: 67005-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67005#An-Index-to-the-First-Thirty-Three-Volumes-of-the-Yale-Literary-Magazine-February-1836-July-1_
 gutenberg_issued: '2021-12-24'
 identifiers:
   gutenberg: '67005'
